@@ -1,5 +1,5 @@
 # MyLibraryRobot
-This repository contains an arduino code for controlling a library robotic system. This work is a combined effort of a team of four towards completing our final year B.E. project (2015-2016).
+This repository contains an arduino code for controlling a library robotic system. This work is an effort towards completing my final year B.E. project (2015-2016).
 
 For project overview visit: [AUTOMATED SYSTEM FOR BOOKS HANDLING IN A LIBRARY](https://maheshl.weebly.com/be-automated-system-for-books-handling-in-a-library.html)
 
